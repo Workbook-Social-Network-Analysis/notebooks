@@ -39,3 +39,11 @@ You could download the latest stable version in the official page here.
 https://www.python.org/downloads/ and
 users can install all the required packages in the prompt terminal using the command: pip install package_name
 Suggested installation stable version 3.5 + and versions less than recent release.
+
+
+## Dependencies
+The following libraries are needed for the execution of Workbooks
+* pandas
+* numpy
+* networkX
+* matplotlib

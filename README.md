@@ -2,7 +2,7 @@
 # get into Social network analysis with python Workbooks
 
 The notebooks provided here for the readers to get familiar into python and social network analysis.
-To get this all notebooks. Make use of the qr code from the book [link](https://www.freecodeformat.com/)
+To get this all notebooks. Make use of the qr code from the book [here](https://www.freecodeformat.com/)
 
 
 # Installation:
